@@ -1,0 +1,40 @@
+# Archivos y carpetas generados por el sistema operativo
+.DS_Store
+Thumbs.db
+
+# Carpetas y archivos generados por Maven
+/target/
+/out/
+
+# Archivos de configuración de IDEs comunes
+/.idea/
+/*.iml
+/.vscode/
+
+# Archivos de logs
+*.log
+
+# Archivos temporales y de backup
+*.tmp
+*.bak
+*~
+
+# Wrapper de Maven (se puede incluir o no, pero generalmente se incluye)
+/.mvn/
+
+# Archivos de configuración local de Spring Boot
+/application.properties
+/application.yml
+
+# Archivos de configuración de Eclipse
+.settings/
+
+# Archivos de configuración de IntelliJ IDEA
+*.iws
+*.ipr
+
+# Archivos de configuración de NetBeans
+/nbproject/private/
+
+# Otros archivos generados
+*.class
